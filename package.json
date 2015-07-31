@@ -1,0 +1,11 @@
+{
+  "name": "quick-conway",
+  "version": "1.0.0",
+  "description": "A two-hour challenge to build game of life",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Andrew Hills",
+  "license": "MIT"
+}
